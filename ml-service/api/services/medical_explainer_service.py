@@ -8,10 +8,10 @@ client = OpenAI(
 )
 
 MODELS = [
+    "openai/gpt-oss-120b:free"
+    "qwen/qwen3-next-80b-a3b-instruct:free"
     "meta-llama/llama-3.3-70b-instruct:free",
     "stepfun/step-3.5-flash:free",
-    "arcee-ai/trinity-large-preview:free",
-    "openai/gpt-oss-120b:free"
 ]
 
 
