@@ -60,7 +60,7 @@ HealthVision/
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Akhil Pandey** | Backend + DB | [@Akhil9648](https://github.com/Akhil9648) |
+| **Akhil Pandey** | Backend + DB+ ML-Service | [@Akhil9648](https://github.com/Akhil9648) |
 | **Aditya Pratap Singh** | Ml-Service + HealthVison-Chatbot | [@aditya2005-code](https://github.com/aditya2005-code) |
 | **Rishi Tiwari** | Frontend, Backend + DB | [@rishi-tiwari023](https://github.com/rishi-tiwari023) |
 
