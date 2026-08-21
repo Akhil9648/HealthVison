@@ -59,7 +59,8 @@ const allowedOrigins = [
   process.env.FRONTEND_URL,
   'https://www.healthviz.in',
   'https://healthviz.in',
-  'https://health-vison.vercel.app'
+  'https://health-vison.vercel.app',
+  'https://healthvision-frontend-production.up.railway.app'
 ].filter(Boolean).map(url => url.trim().replace(/\/$/, ""));
 
 const corsOptions = {
